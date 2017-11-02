@@ -2,7 +2,7 @@
 
 namespace JMS\SecurityExtraBundle\Tests\Security\Util;
 
-use JMS\SecurityExtraBundle\Security\Util\String as StringUtil;
+use JMS\SecurityExtraBundle\Security\Util\StringClass as StringUtil;
 
 class StringTest extends \PHPUnit_Framework_TestCase
 {

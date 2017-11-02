@@ -9,7 +9,7 @@ namespace JMS\SecurityExtraBundle\Security\Util;
  *
  * @author Johannes M. Schmitt <schmittjoh@gmail.com>
  */
-final class String
+final class StringClass
 {
     final private function __construct() {}
 
